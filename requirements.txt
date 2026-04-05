@@ -1,4 +1,3 @@
-ultralytics==8.1.0
+ultralytics
 streamlit
-Pillow
 opencv-python-headless
